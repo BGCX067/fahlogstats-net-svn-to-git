@@ -1,0 +1,87 @@
+body {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #000000;
+	margin: 0;
+	border: none;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 14pt;
+	color: #660000;
+}
+
+h2 {
+	font-family: Verdana;
+	font-size: 12pt;
+	color: #2e0020;
+}
+
+h3 {
+	font-family: Verdana;
+	font-size: 11pt;
+	color: #330033;
+}
+
+hidden {
+	display: none;
+}
+
+normal {
+	display: block;
+}
+
+.HelpLink {
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #000099;
+	font-weight: bolder;
+}
+
+.HelpData {
+	padding-left: 16px;
+}
+
+table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+}
+
+.Header {
+	font-family: Verdana;
+	font-size: 16pt;
+	color: #000033;
+	background-color: #ccccff;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.Footer {
+	font-family: Verdana;
+	font-size: 8pt;
+	color: #330033;
+	background-color: #e09a00;
+	padding: 10px;
+}
+
+.Body {
+	padding: 10px;
+}
+
+.SeeAlso {
+	font-size: 11pt;
+	font-weight: bold;
+	padding-bottom: 3pt;
+}
+
+.SeeAlsoItem {
+	padding-left: 2em;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.Undec {
+	text-decoration: none;
+}

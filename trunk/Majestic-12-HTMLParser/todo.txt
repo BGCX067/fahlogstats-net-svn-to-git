@@ -1,0 +1,17 @@
+ToDo:
+
+1) Optimising parser even further -- if you manage to achieve 15%+ speed-up
+then please email me (alexc@majestic12.co.uk) your version for release to
+everybody.
+
+2) Making NUnit test cases
+ 
+3) Better support for Unicode
+
+4) Build-in re-encoding of text to required encoding
+
+5) Better documentation/comments
+
+6) Perhaps a conditional compile statement to get a version of HTMLparser
+that will deal with all range checks etc.
+

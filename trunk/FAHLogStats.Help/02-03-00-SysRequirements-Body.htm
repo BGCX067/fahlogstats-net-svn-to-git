@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<link rel="stylesheet" type="text/css" href="help.css" />
+<Title>System Requirements</Title>
+<script type="text/javascript">
+<!--
+function Toggle(objText, objImg)
+{
+var elText = document.getElementById(objText);
+
+if ( elText .style.display != 'none' )
+	{ elText .style.display = 'none'; }
+else
+	{ elText .style.display = ''; }
+
+var elImg = document.getElementById(objImg);
+
+var sImgSrc = "" + elImg.src;
+var sImg = sImgSrc.substring(sImgSrc.length - 8, sImgSrc.length);
+
+if ( sImg == 'Plus.png')
+	{ elImg.src = 'Minus.png'; }
+else
+	{ elImg.src = 'Plus.png'; }
+}
+//-->
+</script>
+</HEAD>
+<BODY>
+<H1>Help about Help</H1>
+<P>This topic tells you about the Help system.</P>
+<P class="HelpLink"><img src="Plus.png" align="middle" /> Collapsed Topics</P>
+<P>A collapsed topic heading (the plus sign indicates that the heading can be expanded) is a placeholder for help information. .</P>
+<P class="HelpLink"><img src="Minus.png" align="middle" /> Expanded Topics</P>
+<P>Sets options for updating data from folding instances.</P>
+<P><a onclick="Toggle('TryMe', 'ImgTryMe');" title="Update Data Help" class="HelpLink"><img src="Plus.png" align="middle" id="ImgTryMe"/> Try Me</a></P>
+<div id="TryMe" style="display: none;" class="HelpData"><P>Congratulations - you successfully expanded the heading above.</P></div>
+</BODY>
+</HTML>

@@ -1,0 +1,1048 @@
+Open tag: html
+Text: ' '
+Open tag: head
+Text: ' '
+Open tag: title
+Text: 'Majestic-12: Distributed Search Engine'
+Closed tag: title
+Text: ' '
+Open tag: base href='http://www.majestic12.co.uk'
+Text: ' '
+Open tag: link href='/css/mj12.css' rel='stylesheet' type='text/css'
+Text: ' '
+Open tag: meta content='Majestic-12,Majestic12, Majestic 12 UK, distributed search engine project, dsearch, mj12node, mj12 node, search engine optimisation, SEO' name='Keywords'
+Text: ' '
+Open tag: meta content='text/html; charset=iso-8859-1' http-equiv='Content-Type'
+Text: ' '
+Closed tag: head
+Text: ' '
+Open tag: body link='#0000cc' alink='#FF0000' bgcolor='#FFFFFF' vlink='551A8B' text='#000000'
+Text: ' '
+Open tag: div align='center'
+Text: ' '
+Open tag: table border='0' cellspacing='0' width='100%' cellpadding='0'
+Text: ' '
+Open tag: tr
+Open tag: td height='1' bgcolor='#000000' colspan='3'
+Open tag: img width='1' src='/images/black.gif' height='1'
+Closed tag: td
+Closed tag: tr
+Text: ' '
+Open tag: tr
+Open tag: td width='1' bgcolor='#000000'
+Open tag: img width='1' src='/images/black.gif' height='1'
+Closed tag: td
+Text: ' '
+Open tag: td
+Text: ' '
+Open tag: table border='0' cellspacing='0' width='100%' cellpadding='8'
+Text: ' '
+Open tag: tr
+Open tag: td align='left' bgcolor='#D1D7DC' colspan='1' rowspan='2'
+Text: ' '
+Open tag: a href='/'
+Open tag: img border='0' alt='Majestic-12 logo' src='/images/mj12logo.png' align='left'
+Closed tag: a
+Text: ' '
+Closed tag: td
+Text: ' '
+Open tag: td align='right' bgcolor='#D1D7DC' valign='top'
+Open tag: font size='4'
+Open tag: b
+Text: 'Distributed&nbsp;Search&nbsp;Engine&nbsp;Project'
+Closed tag: b
+Closed tag: td
+Text: ' '
+Closed tag: tr
+Text: ' '
+Open tag: tr
+Text: ' '
+Open tag: td align='right' bgcolor='#D1D7DC' valign='bottom'
+Text: ' '
+Open tag: script type='text/javascript'
+Text: ' '
+Comment: 
+Text: ' '
+Closed tag: script
+Text: ' '
+Open tag: a href='javascript:addEngine('majestic12','png','General','3153')'
+Text: ' '
+Open tag: img width='110' alt='Install the 'Majestic-12' search plugin.' src='/images/misc/getplugbtn1.png' height='32' title='Install the 'Majestic-12' search plugin.'
+Text: ' '
+Closed tag: a
+Text: ' '
+Comment: 
+Text: ' '
+Closed tag: td
+Text: ' '
+Closed tag: tr
+Text: ' '
+Open tag: tr
+Text: ' '
+Open tag: td align='center' bgcolor='#EEEEEE' colspan='2'
+Text: ' '
+Open tag: font size='2'
+Open tag: a href='/'
+Text: 'Home'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='/projects/dsearch/'
+Text: 'DSearch'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='/projects/dsearch/stats.php'
+Text: 'Stats'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='/projects/dsearch/screenshots.php'
+Text: 'Screenshots'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'Download'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='http://www.majestic12.co.uk/forum/'
+Text: 'Forum'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='http://www.majestic12.co.uk/webcam/'
+Text: 'Webcam'
+Closed tag: a
+Closed tag: font
+Text: ' | '
+Open tag: font size='2'
+Open tag: a href='/about.php'
+Text: 'About'
+Closed tag: a
+Closed tag: font
+Text: ' '
+Closed tag: td
+Closed tag: tr
+Text: ' '
+Open tag: tr
+Text: ' '
+Open tag: td colspan='2'
+Text: ' '
+Open tag: table border='0' cellspacing='0' width='100%' cellpadding='8'
+Open tag: tr
+Open tag: td
+Text: ' '
+Comment: 
+Text: ' '
+Open tag: br
+Text: ' '
+Open tag: table border='0' width='100%'
+Text: ' '
+Open tag: tr
+Text: ' '
+Open tag: td width='80%' valign='top'
+Text: ' '
+Open tag: h2
+Text: 'Welcome to Majestic-12!'
+Closed tag: h2
+Text: ' '
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' '
+Open tag: p
+Text: ' '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '30/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: '370 mln URLs added'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Just over two weeks from the last URL load more data had to be parsed to catch up with the new high crawling levels with 370 mln new unique URLs added to the system taking number of '
+Open tag: a href='/projects/dsearch/stats.php'
+Text: 'known URLs'
+Closed tag: a
+Text: ' to almost 1,800,000,000 unique URLs! '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '27/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: '20 mln URLs crawled today!'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Today the community set new record worthy of remembering -- 20 mln URLs crawled representing whopping 433 Gigabytes (almost half a terabyte!) of raw data in less than a day! Screenshot of those who made the record is '
+Open tag: a href='http://www.majestic12.co.uk/forum/viewtopic.php?p=5285'
+Text: 'here'
+Closed tag: a
+Text: '. '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '26/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: 'Search engine updated to v0.2.0'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Significant update to the '
+Open tag: a href='http://majestic12.kicks-ass.org:8888'
+Text: 'search engine'
+Closed tag: a
+Text: ' fixing a number of bugs and introducing new ability for users to create their own ranking formulaes and see how they change search results! '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '20/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: ' MJ12node v1.0.8'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' New version of MJ12node '
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'released'
+Closed tag: a
+Text: ' with bug fixes, better URL scheduling strategy that should minimise number of buckets with 1 domains and lots of URLs left, and a new feature allowing to compress crawled data 15-30% better (not enabled by default, see Options->Crawler->Enable barrel sorting). Details on what's changed are '
+Open tag: a href='http://www.majestic12.co.uk/forum/viewtopic.php?t=618'
+Text: 'here'
+Closed tag: a
+Text: '. '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '12/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: '270 mln URLs added'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Over 1.5 TB (TeraBytes!) of crawled data was parsed for new URLs, and after deduplication and filtering just over 270 mln more URLs were added to the system taking number of '
+Open tag: a href='/projects/dsearch/stats.php'
+Text: 'known URLs'
+Closed tag: a
+Text: ' to over 1,400,000,000 (for those who get dizzy from all those zeroes -- that's 1.4 billion!) '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '5/09/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: '1 bln crawled URLs + MJ12node v1.0.7'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Today we reached a major milestone of 1,000,000,000 crawled URLs! It only took 8 months from public beta of the crawler, and next billion should take a lot less time! :) '
+Open tag: p
+Text: ' New version of MJ12node '
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'released'
+Closed tag: a
+Text: ' with lots of changes making it a worthy upgrade. Details on what's changed are '
+Open tag: a href='http://www.majestic12.co.uk/forum/viewtopic.php?p=3707'
+Text: 'here'
+Closed tag: a
+Text: '. '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '29/08/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: 'MJ12node v1.0.6 + more URLs + Firefox search plug-in!'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' New version of MJ12node '
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'released'
+Closed tag: a
+Text: ' with an number of bug-fixes and one important change that calls for speedy upgrade of your clients, please '
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'get'
+Closed tag: a
+Text: ' updated versions as soon as you can! '
+Open tag: p
+Text: ' 115 mlns more URLs were addded to the system taking number of '
+Open tag: a href='/projects/dsearch/tlds.php'
+Text: 'known URLs'
+Closed tag: a
+Text: ' to almost 1,150,000,000. '
+Open tag: p
+Text: ' Anyone with '
+Open tag: a href='http://www.mozilla.org/products/firefox/'
+Text: 'Firefox'
+Closed tag: a
+Text: ' (and why shouldn't you use the best browser available?) can now add '
+Open tag: a href='javascript:addEngine('majestic12','png','General','3153')'
+Text: 'Majestic-12 search engine plug-in'
+Closed tag: a
+Text: ' to the list of search engines, don't be shy to use it to search -- this will help improve the search engine! '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '28/08/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: 'Stats upgraded!'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Upgraded stats on this site now show breakdown by '
+Open tag: a href='/projects/dsearch/countries.php'
+Text: 'countries'
+Closed tag: a
+Text: ', '
+Open tag: a href='/projects/dsearch/platforms.php'
+Text: 'platforms'
+Closed tag: a
+Text: ', '
+Open tag: a href='/projects/dsearch/bestdays.php'
+Text: 'best daily rates'
+Closed tag: a
+Text: ', more per '
+Open tag: a href='/projects/dsearch/userinfo.php?id=62'
+Text: 'peer stats'
+Closed tag: a
+Text: ' and '
+Open tag: a href='/projects/dsearch/addtosite.php'
+Text: 'instructions on what HTML'
+Closed tag: a
+Text: ' you need to use if you want to put some of your personal stats onto your webpages (more ideas in this area particularly welcome). Best place to start exploring new stats is from '
+Open tag: a href='/projects/dsearch/stats.php'
+Text: 'here'
+Closed tag: a
+Text: '. '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '16/08/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: 'Search engine updated to v0.1.5 + 1 bln URLs known!'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Significant update to the '
+Open tag: a href='http://majestic12.kicks-ass.org:8888'
+Text: 'search engine'
+Closed tag: a
+Text: ' now with almost 45 mln URLs, some bugs fixed and new features such as '
+Open tag: a href='http://majestic12.kicks-ass.org:8888/search.jhh?q=site:www.majestic12.co.uk'
+Text: 'domain clustering'
+Closed tag: a
+Text: ' (site: prefix works now). This release will serve as the basis for work to improve relevance of search matches. The search engine is now hosted on a dedicated box so response time should be more reasonable now. '
+Open tag: p
+Text: ' Separately a significant milestone of over 1 bln '
+Open tag: a href='/projects/dsearch/tlds.php'
+Text: 'known URLs'
+Closed tag: a
+Text: ' have been reached! In light of considerably higher crawling rates than ever before a special effort will take place to ensure that there is enough supply of URLs to crawl without having to panic and add them at the last minute! :) '
+Open tag: p
+Text: ' '
+Open tag: b
+Text: '27/07/05'
+Closed tag: b
+Text: ' '
+Open tag: b
+Text: 'Talk at Birmingham's UK Perl Mongers group'
+Closed tag: b
+Open tag: br
+Text: ' '
+Open tag: p
+Text: ' Presentation of talk before '
+Open tag: a href='http://birmingham.pm.org/docs/technical-next.html'
+Text: 'Birmingham Perl Mongers User Group (UK)'
+Closed tag: a
+Text: ' on topic of '
+Open tag: a href='research/WWW-Search-Engine-But-Not-In-Perl.ppt'
+Text: '"Building a scalable distributed WWW search engine ... NOT in Perl!"'
+Closed tag: a
+Text: ' (requires PowerPoint). :) '
+Closed tag: td
+Text: ' '
+Open tag: td valign='top'
+Text: ' '
+Open tag: center
+Open tag: font size='2'
+Open tag: b
+Text: 'Distributed Network Stats'
+Closed tag: b
+Closed tag: font
+Closed tag: center
+Open tag: br
+Text: ' '
+Open tag: a href='projects/dsearch/stats.php'
+Open tag: img width='300' border='0' src='/stats/allurls_by_day.php?w=300&h=160' height='160'
+Closed tag: a
+Text: ' '
+Open tag: br
+Open tag: br
+Open tag: center
+Open tag: font size='2'
+Open tag: b
+Text: 'Top 10 users (Today)'
+Closed tag: b
+Closed tag: font
+Closed tag: center
+Open tag: br
+Open tag: table border='0' width='330' bgcolor='#EEEEEE'
+Open tag: tr
+Open tag: td align='center'
+Open tag: b
+Open tag: font size='1'
+Text: '#'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'Nick'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'URLs'
+Open tag: br
+Text: 'done'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'Data'
+Open tag: br
+Text: '(MB)'
+Closed tag: b
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '1'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Finland' src='/images/flags/small/fi.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=219'
+Text: 'Codepic'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '3,260,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '56,029'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '2'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='United States' src='/images/flags/small/us.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=127'
+Text: 'scottsaxman'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,427,280'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '22,453'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '3'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Canada' src='/images/flags/small/ca.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=225'
+Text: 'huguesmackay'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,330,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '18,374'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '4'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='England' src='/images/flags/small/england.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=184'
+Text: 'Evil-Dragon'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,010,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '18,368'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '5'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Finland' src='/images/flags/small/fi.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=235'
+Text: 'tantzu'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '660,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '12,433'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '6'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Netherlands' src='/images/flags/small/nl.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=34'
+Text: 'www.vanginkel.info'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '650,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '11,454'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '7'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='England' src='/images/flags/small/england.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=4'
+Text: 'FiddleAbout'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '580,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '10,375'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '8'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Canada' src='/images/flags/small/ca.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=159'
+Text: 'istvan43'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '480,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '5,653'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '9'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Netherlands' src='/images/flags/small/nl.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=170'
+Text: 'sportman'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '450,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '7,891'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '10'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Finland' src='/images/flags/small/fi.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=125'
+Text: 'www.finnserver.com'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '440,000'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '8,089'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' colspan='2'
+Open tag: font size='1'
+Open tag: b
+Text: 'Total ('
+Open tag: a href='/projects/dsearch/stats.php'
+Text: '27 users'
+Closed tag: a
+Text: ')'
+Closed tag: b
+Closed tag: td
+Open tag: td align='right'
+Open tag: font size='1'
+Open tag: b
+Text: '12,665,620'
+Closed tag: b
+Closed tag: td
+Open tag: td align='right'
+Open tag: font size='1'
+Open tag: b
+Text: '171,119'
+Closed tag: b
+Closed tag: td
+Closed tag: tr
+Closed tag: table
+Open tag: br
+Open tag: center
+Open tag: font size='2'
+Open tag: b
+Text: 'Top 10 users (Overall)'
+Closed tag: b
+Closed tag: font
+Closed tag: center
+Open tag: br
+Open tag: table border='0' width='330' bgcolor='#EEEEEE'
+Open tag: tr
+Open tag: td align='center'
+Open tag: b
+Open tag: font size='1'
+Text: '#'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'Nick'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'URLs'
+Open tag: br
+Text: 'done'
+Closed tag: b
+Closed tag: td
+Open tag: td align='center'
+Open tag: font size='1'
+Open tag: b
+Text: 'Data'
+Open tag: br
+Text: '(MB)'
+Closed tag: b
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '1'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Russia' src='/images/flags/small/rs.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=1'
+Text: 'alexc'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '280,704,151'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '2,385,402'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '2'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='England' src='/images/flags/small/england.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=4'
+Text: 'FiddleAbout'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '152,517,471'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,869,623'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '3'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Switzerland' src='/images/flags/small/sz.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=62'
+Text: 'lazytom'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '119,309,055'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,843,378'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '4'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Netherlands' src='/images/flags/small/nl.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=170'
+Text: 'sportman'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '110,319,309'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '2,430,038'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '5'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='England' src='/images/flags/small/england.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=5'
+Text: 'dazza12'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '93,980,193'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,072,352'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '6'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='United States' src='/images/flags/small/us.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=18'
+Text: 'linuxbren'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '68,687,885'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '603,638'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '7'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='United Kingdom' src='/images/flags/small/uk.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=8'
+Text: 'Mordac'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '68,087,005'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '893,348'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '8'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='United States' src='/images/flags/small/us.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=127'
+Text: 'scottsaxman'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '48,299,476'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '1,017,182'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '9'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='England' src='/images/flags/small/england.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=184'
+Text: 'Evil-Dragon'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '41,429,649'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '926,502'
+Closed tag: td
+Closed tag: tr
+Open tag: tr
+Open tag: td align='center' valign='middle'
+Open tag: font size='1'
+Text: '10'
+Closed tag: td
+Open tag: td align='left' valign='middle'
+Open tag: font size='1'
+Open tag: img border='0' align='left' width='24' height='16' alt='Germany' src='/images/flags/small/gm.gif'
+Text: ' '
+Open tag: a href='/projects/dsearch/userinfo.php?id=22'
+Text: 'Cyber911'
+Closed tag: a
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '40,732,137'
+Closed tag: td
+Open tag: td align='right' valign='middle'
+Open tag: font size='1'
+Text: '201,573'
+Closed tag: td
+Closed tag: tr
+Open tag: tr bgcolor='#FFFFFF'
+Open tag: td align='center' colspan='2'
+Open tag: font size='1'
+Open tag: b
+Text: 'Total ('
+Open tag: a href='/projects/dsearch/stats.php'
+Text: '124 users'
+Closed tag: a
+Text: ')'
+Closed tag: b
+Closed tag: td
+Open tag: td align='right'
+Open tag: font size='1'
+Open tag: b
+Text: '1,360,618,700'
+Closed tag: b
+Closed tag: td
+Open tag: td align='right'
+Open tag: font size='1'
+Open tag: b
+Text: '13,243,036'
+Closed tag: b
+Closed tag: td
+Closed tag: tr
+Closed tag: table
+Open tag: br
+Open tag: center
+Open tag: font size='2'
+Text: 'Join the pioneers '
+Open tag: a href='/projects/dsearch/download.php'
+Text: 'here'
+Closed tag: a
+Text: '!'
+Closed tag: center
+Open tag: div align='right'
+Open tag: p
+Open tag: font size='1'
+Text: 'Last updated: 2005-10-01 15:32 GMT '
+Closed tag: font
+Closed tag: div
+Closed tag: td
+Text: ' '
+Closed tag: tr
+Text: ' '
+Closed tag: table
+Text: ' '
+Closed tag: td
+Closed tag: tr
+Closed tag: table
+Text: ' '
+Open tag: tr
+Open tag: td colspan='2'
+Open tag: font size='-2'
+Open tag: center
+Open tag: b
+Text: 'Copyright &copy; Majestic-12'
+Closed tag: b
+Closed tag: center
+Closed tag: font
+Closed tag: td
+Closed tag: tr
+Text: ' '
+Closed tag: td
+Closed tag: tr
+Closed tag: table
+Text: ' '
+Closed tag: td
+Text: ' '
+Open tag: td width='1' bgcolor='#000000'
+Open tag: img width='1' src='/images/black.gif' height='1'
+Closed tag: td
+Closed tag: tr
+Text: ' '
+Closed tag: tr
+Text: ' '
+Open tag: tr
+Open tag: td height='1' bgcolor='#000000' colspan='3'
+Open tag: img width='1' src='/images/black.gif' height='1'
+Closed tag: td
+Closed tag: tr
+Text: ' '
+Closed tag: table
+Text: ' '
+Closed tag: div
+Text: ' '
+Closed tag: body
+Text: ' '
+Closed tag: html
+Parsed 1 time(s), total time 0 secs, approximately 46 ms per full parse.

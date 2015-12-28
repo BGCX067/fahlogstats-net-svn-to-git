@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<link rel="stylesheet" type="text/css" href="help.css" />
+<Title>User Preferences</Title>
+<script type="text/javascript">
+<!--
+function Toggle(objText, objImg)
+{
+var elText = document.getElementById(objText);
+
+if ( elText .style.display != 'none' )
+	{ elText .style.display = 'none'; }
+else
+	{ elText .style.display = ''; }
+
+var elImg = document.getElementById(objImg);
+
+var sImgSrc = "" + elImg.src;
+var sImg = sImgSrc.substring(sImgSrc.length - 8, sImgSrc.length);
+
+if ( sImg == 'Plus.png')
+	{ elImg.src = 'Minus.png'; }
+else
+	{ elImg.src = 'Plus.png'; }
+}
+//-->
+</script>
+</HEAD>
+<BODY>
+<H1>Configuring User Preferences</H1>
+<P>Use this dialog to change application settings.</P>
+<P><IMG SRC="Preferences.PNG" /></P>
+<P><a onclick="Toggle('UpdateData', 'ImgData');" title="Update Data Help" class="HelpLink"><img src="Plus.png" align="middle" id="ImgData"/> Automatic Data Collection</a></P>
+<div id="UpdateData" style="display: none;" class="HelpData"><P>Sets options for updating data from folding instances.</P></div>
+<P><a onclick="Toggle('WebOutput', 'ImgWeb');" title="Update Data Help" class="HelpLink"><img src="Plus.png" align="middle" id="ImgWeb"/> HTML Output</a></P>
+<div id="WebOutput" style="display: none;" class="HelpData"><P>Sets options for automatically generating a website from the dataset.</P></div>
+<P><a onclick="Toggle('StyleSheet', 'ImgStyle');" title="Style Sheet Help" class="HelpLink"><img src="Plus.png" align="middle" id="ImgStyle"/> Display Style</a></P>
+<div id="StyleSheet" style="display: none;" class="HelpData"><P>Sets the display style (CSS stylesheet).</P></div>
+</BODY>
+</HTML>
